@@ -1,0 +1,6 @@
+
+
+
+Build number: 1.1.20
+Verdict: pass
+Log: regression OK
